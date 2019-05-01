@@ -1,2 +1,2 @@
 # hello-word
-hello-word first one in TUM
+hello-word the first one in TUM
